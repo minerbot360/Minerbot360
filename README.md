@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Minerbot360
-- 👀 I’m interested in Swift development
-- 🌱 I’m currently learning how to use SwiftUI
-- 💞️ I’m looking to collaborate on nothing, just learning
-- 📫 How to reach me read above :D
+Hi, I'm Minerbot360. I am a student in Southern California. I am currently learning Swift and working with SwiftUI. If you want to contact me, see my contacts above.
 
 <!---
 Minerbot360/Minerbot360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
